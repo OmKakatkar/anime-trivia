@@ -1,0 +1,16 @@
+{
+  "name": "anime-trivia-1",
+  "version": "1.0.0",
+  "description": "This is a CLI based trivia about anime. Are you a true anime fan? Let's find out!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
