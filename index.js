@@ -57,7 +57,7 @@ for (var ques = 0; ques<questions.length; ques++ ) {
   // console.log(questions[ques].question)
 }
 
-console.log('\nYour score is: '+score);
+console.log('\n' + userName + "'s score is : " + score);
 if(score < 3) {
 	console.log(chalk.red("\nDo you really watch anime bro? I highly doubt it..."));
 } 
